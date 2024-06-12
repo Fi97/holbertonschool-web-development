@@ -1,1 +1,1 @@
-![Info](./assets/img_chania.jpg)
+![Info](./assets/HolbertonTaskSite.jpg)
