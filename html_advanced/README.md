@@ -1,1 +1,1 @@
-![Info](./assets/HolbertonTaskSite.jpg)
+# HTML, advanced
